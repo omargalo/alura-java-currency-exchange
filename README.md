@@ -9,8 +9,8 @@ El proyecto `Currency Exchange` es una aplicación de consola en Java que permit
 - Historial de conversiones con marcas de tiempo.
 - Interfaz de consola simple y fácil de usar.
 
-[![Menu](https://drive.google.com/file/d/1U_L73jFmKdan7GkCrO_ZSFuyDPT2lGLJ/view?usp=drive_link)
-](https://drive.google.com/file/d/1U_L73jFmKdan7GkCrO_ZSFuyDPT2lGLJ/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1U_L73jFmKdan7GkCrO_ZSFuyDPT2lGLJ/view?usp=drive_link" />
+
 
 ## Requisitos Previos
 - Java 16 o superior.
