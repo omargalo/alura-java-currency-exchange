@@ -9,8 +9,9 @@ El proyecto `Currency Exchange` es una aplicación de consola en Java que permit
 - Historial de conversiones con marcas de tiempo.
 - Interfaz de consola simple y fácil de usar.
 
-<img src="https://drive.google.com/file/d/1U_L73jFmKdan7GkCrO_ZSFuyDPT2lGLJ/view" />
-
+![01](https://github.com/omargalo/alura-java-currency-exchange/assets/138618761/e983998d-6f3f-403b-9468-6249743d29dc)
+![02](https://github.com/omargalo/alura-java-currency-exchange/assets/138618761/349c2e2c-40e5-4952-b485-bbd76ea686f5)
+![03](https://github.com/omargalo/alura-java-currency-exchange/assets/138618761/7ad320ba-76d2-42cd-8137-56edf02aa83f)
 
 ## Requisitos Previos
 - Java 16 o superior.
